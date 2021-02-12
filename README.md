@@ -21,7 +21,7 @@ Full control of your playlists from Alfred! Browse, launch, follow or even remov
 2. Follow the [setup documentation](https://alfred-spotify-mini-player.com/setup/).
 
 ## Features
-[![Screenshot)](https://raw.github.com/mikefleder/alfred-workflows/main/img/alfred-spotify-mini-features.png)
+[![Screenshot](https://raw.github.com/mikefleder/alfred-workflows/main/img/alfred-spotify-mini-features.png)](#features)
 
 ## Example
 
