@@ -17,14 +17,13 @@ The workflow has one top-level command, `wtr`, and three sub-commands, daily (`w
 Full control of your playlists from Alfred! Browse, launch, follow or even remove any of your playlists. Add tracks, album or even playlists to any of your playlists, or _Your Music_ right from the workflow. You can also remove tracks.
 
 ## Installation
-
 1. Download and install the [latest version of the workflow](https://github.com/vdesabou/alfred-spotify-mini-player/releases/latest/download/spotifyminiplayer.alfredworkflow).
 2. Follow the [setup documentation](https://alfred-spotify-mini-player.com/setup/).
 
-## Features
- <img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="723" height="1005">
+### Features
+ <img src="https://raw.github.com/mikefelder/alfred-workflows/main/img/alfred-spotify-mini-features.jpg" width="723" height="1005">
 
-## Example
+### Example
 ![Screenshot](https://raw.github.com/mikefelder/alfred-workflows/main/img/alfred-spotify-mini.gif)
 
 # Phillips Hue Controller
