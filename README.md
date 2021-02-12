@@ -1,9 +1,10 @@
 # alfred-workflows
-Choice workflows I use regularly.
+Choice workflows I use regularly with [Alfred](https://alfredapp.com) that utilize the [Alfred Powerpack](https://www.alfredapp.com/powerpack/).
+It's worth every penny.
 
 # Alfred Weather 
 [jason0x43/alfred-weather](https://github.com/jason0x43/alfred-weather)
-An [Alfred][alfred] workflow for showing weather forecasts.
+An [Alfred](https://alfredapp.com) workflow for showing weather forecasts.
 
 
 ## Setup & Usage
@@ -21,7 +22,8 @@ Full control of your playlists from Alfred! Browse, launch, follow or even remov
 2. Follow the [setup documentation](https://alfred-spotify-mini-player.com/setup/).
 
 ## Features
-[![Screenshot](https://github.com/mikefelder/alfred-workflows/main/img/alfred-spotify-mini-features.png)](#features)
+[![Screenshot](https://raw.github.com/mikefelder/alfred-workflows/main/img/alfred-spotify-mini-features.jpg)](#features)
+
 ## Example
 ![Screenshot](https://raw.github.com/mikefelder/alfred-workflows/main/img/alfred-spotify-mini.gif)
 
@@ -29,11 +31,6 @@ Full control of your playlists from Alfred! Browse, launch, follow or even remov
 [benknight/hue-alfred-workflow](https://github.com/benknight/hue-alfred-workflow/)
 Quickly and easily control Philips Hue lights with Alfred. [Download latest release here](https://github.com/benknight/hue-alfred-workflow/releases)
 
-Contributors:
-- Benjamin Knight [benknight](https://github.com/benknight)
-- Alec Rust [AlecRust](https://github.com/AlecRust)
-- Brian Richards [brichards](https://github.com/brichards)
-- Felix Lisczyk [FelixII](http://github.com/FelixII)
 
 # Network Tools for Alfred
 [fniephaus/alfred-network](https://github.com/fniephaus/alfred-network/)
